@@ -36,3 +36,10 @@
   background-color: #04AA6D;
   color: white;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
